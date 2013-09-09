@@ -8,13 +8,21 @@ description:      There are others like it, but this one is mine
 owner:
   name:           Matthew Baird
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
+  bio:            "Engineer"
   email:          mattbaird@gmail.com
   twitter:        zetty        
   github:         mattbaird       
   disqus:         mattbaird
   # Plug in your disqus shortname!
-  
+
+# Settings for analytics helper
+# Set 'provider' to the analytics provider you want to use.
+# Set 'provider' to false to turn analytics off globally.
+#        
+analytics :
+  provider : google
+  google :
+      tracking_id : 'UA-43859969-1'
 
 # Links to include in top navigation
 # For external links add external: true
@@ -33,6 +41,7 @@ timezone:    America/California
 future:      true
 pygments:    true
 markdown:    kramdown
+safe:        true
 
 kramdown:
   auto_ids: true

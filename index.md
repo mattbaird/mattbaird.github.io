@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Recent Posts"
-tags: [Jekyll, theme, responsive, blog, template]
+tags: [Blog, Engineering, Product Development, Matthew Baird]
 image:
   feature: typewriter.jpg
 ---

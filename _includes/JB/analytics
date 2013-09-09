@@ -1,7 +1,7 @@
-{% if site.safe and site.JB.analytics.provider and page.JB.analytics != false %}
-
-{% case site.JB.analytics.provider %}
+{% if site.safe and site.analytics.provider and page.analytics != false %}
+{% case site.analytics.provider %}
 {% when "google" %}
+  <!-- GA -->
   {% include JB/analytics-providers/google %}
 {% when "getclicky" %}
   {% include JB/analytics-providers/getclicky %}
@@ -12,5 +12,4 @@
 {% when "custom" %}
   {% include custom/analytics %}
 {% endcase %}
-
 {% endif %}

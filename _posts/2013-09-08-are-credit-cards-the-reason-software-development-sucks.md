@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Are credit cards the reason software development sucks?"
-description: "Technical debt sucks, try to avoid it as much as possible"
+description: "Technical debt can hobble your team, try to avoid it as much as possible"
 category: Product Development
 comments: true
 tags: [lean, product development, Software Development, technical debt]
