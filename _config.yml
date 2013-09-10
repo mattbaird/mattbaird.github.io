@@ -32,6 +32,8 @@ links:
   - title: Github
     url: https://github.com/mattbaird
     external: true
+  - title: Projects
+    url: /projects
   - title: Matt Who?
     url: http://github.com/mattbaird
     external: true
