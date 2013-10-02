@@ -8,13 +8,4 @@ image:
   feature: hman.jpg
 ---
 
-Hi, This is my blog, I'm going to try and write regularly. Famous last words, right?
-
-### Acknowledgements
-There are a lot of engineers out there that I'm a big fan of:
- * Brian McCallister
- * John Coker
- * Greg Seitz
-
-### The Name
-This blog needs a name. When I figure out out I will change it.
+Hi, my name is Matthew Baird. This is my blog, I'm going to try and write regularly. Famous last words, right?
